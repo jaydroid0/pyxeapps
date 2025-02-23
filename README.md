@@ -1,7 +1,5 @@
-# README
-Apps that buss, just like me.
-As always, it's Python. But I've used PyInstaller to convert the Python file to an executable (.exe) file. 
-I'll upload cool apps with bussy names. 
+# Readme
+Awesome Python apps! PyInstaller lib used to convert .py to .exe! Command: pyinstaller --onefile --noconsole <appname>.py
 
 # Releases
 Each release will have a different app. 
